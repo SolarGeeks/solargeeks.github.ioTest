@@ -1,0 +1,46 @@
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    background: url("../images/bg.jpg");
+    height: 1534px;
+}
+
+.nav-link:hover {
+    color: white !important;;
+}
+.nav-link {
+    color: #cdbfe3 !important;
+}
+
+.btn-outline-warning:hover {
+    color:  #003467 !important;
+}
+
+.card-text, .card-title {
+    color: black;
+}
+
+.carousel-paragraph, .carousel-header, .person-paragraph, .person-header {
+    color: #FCB514 !important;
+}
+
+.carousel-image {
+    display: inline !important;
+}
+
+.carousel-caption, .about-container {
+    background-color: #003467;
+}
+
+.card-round {
+    margin-bottom: 10px;
+}
+
+.carousel-caption {
+    width: 100% !important;
+    position: none !important;
+}
+
+.carousel-control-prev, .carousel-control-next {
+    position: fixed !important;
+    z-index: 1;
+}
